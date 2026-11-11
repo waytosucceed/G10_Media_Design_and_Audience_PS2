@@ -1,0 +1,77 @@
+{
+  "heading": "G10Media Design and Audience(Writing)",
+  "topics": [
+    {
+      "heading": "Media Design and Audience(Writing)",
+      "questions": [
+        {
+          "questionNo": 1,
+          "type": "short",
+          "question": "Create a sentence with the word “Surmise”, meaning: To guess or infer something based on limited evidence or clues.",
+          "text_area": "",
+          "answer": ["From the scattered clues left behind at the scene, the detective surmised that the theft had been meticulously planned."]
+        },
+        {
+          "questionNo": 2,
+          "type": "short",
+          "question": "Create a sentence with the word “Cognise”, meaning: To know, perceive, or become aware of something; to understand mentally.",
+          "text_area": "",
+          "answer": ["It took the committee several months to cognise the far-reaching consequences of the proposed legislation."]
+        },
+        {
+          "questionNo": 3,
+          "type": "short",
+          "question": "Create a sentence with the word “Expound”, meaning: To explain or present something in detail and systematically.",
+          "text_area": "",
+          "answer": ["The scholar was invited to expound upon the philosophical principles that underpinned the movement."]
+        },
+         
+         
+   {
+  "questionNo": 4,
+  "type": "table",
+  "question": "<b>Look at the following advertisement carefully.</b><br><img src = './assests/image/1.jpg' width = '35%' ><br><b>A) </b>Analyse the advertisement and complete an audience analysis table. (Write one or two sentences for each row.)<br><b>B) </b>Now, using the completed table, write a short analytical paragraph explaining how the advertisement uses at least TWO elements to reach its target audience.<br>(You do not need to cover everything. Choose the two most effective elements and explain what effect each one creates.)<br>Word limit: 50–80",
+  "table": {
+    "columns": [
+      "Element",
+      "Analysis: What it shows and why"
+    ],
+    "rows": [
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ]
+    ]
+  },
+  "answer": [
+    ""
+  ]
+}
+      ]
+    }
+  ]
+}
